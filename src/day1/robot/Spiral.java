@@ -23,12 +23,12 @@ Ultron.penDown();
 			// 7. Change the pen color to random
 Ultron.setRandomPenColor();
 			// 6. Move the robot 5 times the current line number you are drawing (5*i)
-Ultron.move(5*i);
+Ultron.move(10);
 			// 2. Turn the robot 1/3 of 360 degrees to the right
-	Ultron.turn(360/10);
+	Ultron.turn(20);
 			// 8. Change the number of sides to 7 (don’t add a new line of code for this one!)
 	
 			// 9. Set the pen width to i
-Ultron.setPenWidth(i);
+Ultron.setPenWidth(10);
 	}
 }}

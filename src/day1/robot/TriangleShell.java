@@ -14,7 +14,7 @@ Ultron.setSpeed(10);
 		// 4. make a variable to hold the length of the triangle and set it to 50
 int length = 50;
 		// 7. Do the following (up to step 10) 60 times
-for (int i = 0; i < 60; i++) {
+for (int i = 0; i < 100000; i++) {
 	
 
 			// 9. Change the color of the pen to a random color
